@@ -1,1 +1,6 @@
-Listado de los proyectos por realizar
+1 --> Análsis de series temporales: Predicción de precios de criptomonedas o acciones con Statsmodels y TensorFlow
+2 --> Big Data con PySpark: Procesamiento y análisis de grandes volúmenes de datos, como logs de servidores web o datos de sensores Introducción
+3 --> Machine Learning con Scikit-learn y TensorFlow: Detección de fraudes en transacciones bancarias o clasificación de clientes
+4 --> Optimización con álgebra lineal y estadística: Implementación de un sistema de recomendación para e-commerce
+5 --> Procesamiento de lenguaje natural (NLP): Análisis de sentimientos en redes sociales o resumen de artículos de noticias
+6 --> Análisis de logs de servidores web con RDDs: Procesar archivos de logs de servidores web (Apache/Nginx) para extraer información clave sobre tráfico, errores y patrones de acceso
